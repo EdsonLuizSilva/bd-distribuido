@@ -1,4 +1,4 @@
-# Projeto: Arquitetura de Banco de Dados com Read/Write Split
+# Projeto: Arquitetura de Banco de Dados Distribuido
 
 Esta aplicação demonstra a implementação de um padrão arquitetural de **Read/Write Split** (Separação de Leitura e Escrita) utilizando dois bancos de dados distintos: **PostgreSQL** (para escrita) e **MySQL** (para leitura). 
 
